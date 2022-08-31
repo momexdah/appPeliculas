@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+*{
+    padding: 0;
+    margin: 0; 
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1080%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='url(%23SvgjsLinearGradient1081)'%3e%3c/rect%3e%3cpath d='M776.1856477142943 503.46072248589206L856.8419302494317 507.6877391387842 822.8543139612011 384.58980700963207z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M1307.297260895028 507.9489495572442L1399.1768986589313 639.1666710899499 1530.394620191637 547.2870333260468 1438.5149824277337 416.06931179334106z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M297.16043349409085 244.49277247335763L215.2899037379254 329.2721878419598 300.0693191065276 411.1427175981253 381.939848862693 326.3633022295231z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M1076.6576499093944-55.41634160818574L1046.533467327957 75.06582847584139 1207.1398199934215-25.29215902674833z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M899.9390842371247 479.22213112389386L842.2893478335385 567.9949403849223 1004.2734299268742 610.0831403597873z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M814.528%2c631.131C859.59%2c629.117%2c904.822%2c614.075%2c927.729%2c575.218C950.956%2c535.818%2c946.908%2c486.222%2c922.906%2c447.289C900.061%2c410.233%2c858.054%2c392.3%2c814.528%2c391.602C769.567%2c390.881%2c725.228%2c406.52%2c699.958%2c443.715C671.136%2c486.139%2c655.582%2c542.425%2c682.332%2c586.184C708.35%2c628.745%2c764.694%2c633.358%2c814.528%2c631.131' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M481.91618529731727 103.39231687847072L463.42740722133345-2.050276125561169 390.7023598637173 56.841306037987174z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M521.1270183866916 125.8746756550839L426.5130695732082 205.2652052087039 505.90359912682817 299.87915402218727 600.5175479403116 220.4886244685673z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M1203.5603130862494 496.2573681693201L1149.9991962711233 356.32743866279833 1065.8098185980327 456.66043196297466z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M804.0305900244584 256.9594741767102L899.4535815100662 393.51442836285554 963.2924180404947 262.6254165825652z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M583.507%2c431.96C619.16%2c434.382%2c655.545%2c417.235%2c672.129%2c385.581C687.833%2c355.606%2c674.46%2c320.965%2c656.774%2c292.114C640.095%2c264.905%2c615.415%2c241.617%2c583.507%2c241.011C550.674%2c240.388%2c520.474%2c260.136%2c505.257%2c289.237C491.025%2c316.455%2c498.778%2c347.876%2c513.544%2c374.808C529.06%2c403.109%2c551.306%2c429.773%2c583.507%2c431.96' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M705.4909429281375 113.10048534987588L639.0323950692762 59.28341442444369 585.2153241438439 125.74196228330513 651.6738720027054 179.55903320873733z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1012.349%2c352.025C1053.985%2c352.161%2c1097.895%2c337.797%2c1117.04%2c300.824C1135.162%2c265.826%2c1116.238%2c225.85%2c1094.811%2c192.771C1075.711%2c163.286%2c1047.457%2c140.475%2c1012.349%2c139.203C974.955%2c137.848%2c939.087%2c154.924%2c918.845%2c186.396C896.777%2c220.707%2c888.781%2c264.618%2c908.836%2c300.143C929.172%2c336.166%2c970.982%2c351.89%2c1012.349%2c352.025' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M127.13295152796115 357.37337821270955L84.04915899068162 250.73724970837392 20.496823023625524 400.4571707499891z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1080'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3clinearGradient x1='15.28%25' y1='-39.29%25' x2='84.72%25' y2='139.29%25' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1081'%3e%3cstop stop-color='%230e2a47' offset='0'%3e%3c/stop%3e%3cstop stop-color='rgba(0%2c 69%2c 158%2c 1)' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3cstyle%3e %40keyframes float1 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-10px%2c 0)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float1 %7b animation: float1 5s infinite%3b %7d %40keyframes float2 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-5px%2c -5px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float2 %7b animation: float2 4s infinite%3b %7d %40keyframes float3 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(0%2c -10px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float3 %7b animation: float3 6s infinite%3b %7d %3c/style%3e%3c/defs%3e%3c/svg%3e");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+body h1{
+    color: #fff;
+    text-align: center;
+    margin-top: 1em;
+}
+
+body .movies{
+    overflow: hidden;
+}
+
+body .paginate{
+    background-color: rgba(0, 69, 158, 1);
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body .paginate .btnBefore, .btnAfter{
+    margin: 0 1em;
+    width: 9em;
+    height: 3em;
+    border-radius: 30em;
+    font-size: 15px;
+    font-family: inherit;
+    border: none;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    box-shadow: 6px 6px 12px rgba(0, 69, 158, 1),
+                -6px -6px 12px rgba(0, 69, 158, 1)
+}
+
+
+body .paginate .btnBefore::before, .btnAfter::before{
+    content: '';
+    width: 0;
+    height: 3em;
+    border-radius: 30em;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: linear-gradient(to right, #0fd850 0%, #f9f047 100%);
+    transition: .5s ease;
+    display: block;
+    z-index: -1;
+}
+
+body .paginate .btnBefore:hover::before, .btnAfter:hover::before{
+    width: 9em;
+}
+
+body .foot footer{
+    color: #fff;
+    text-align: center;
+}
