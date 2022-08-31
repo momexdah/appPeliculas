@@ -46,6 +46,12 @@ const loadMovies = async () => {
             text-align: center;
             color: #fff;
         "> ${pelicula.title} </h3>
+        <div style="
+        text-align: center;
+        color: #fff;
+    ">
+        <h4> ${pelicula.release_date} <span> | <i class="uil uil-star"></i> ${pelicula.vote_average} </span> </h4>
+        </div>
         </div>
         
             `;
