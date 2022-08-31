@@ -66,4 +66,5 @@ body .paginate .btnBefore:hover::before, .btnAfter:hover::before{
 body .foot footer{
     color: #fff;
     text-align: center;
+    margin-bottom: 1em;
 }
